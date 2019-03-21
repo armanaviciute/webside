@@ -1,0 +1,60 @@
+header {
+    background-image: url(../IMG/bg_head.jpg);
+}
+
+footer {
+    background-image: url(../IMG/spectrum-dark-grey.jpg);
+    color: white;
+
+}
+
+footer h6 {
+    text-transform: uppercase;
+}
+
+ul li a {
+    text-transform: uppercase;
+    color: grey;
+}
+
+article h5 {
+    text-align: center;
+
+}
+
+button {
+    text-align: center;
+}
+
+footer h6 {
+    margin-top: 2em;
+    color: #004d99;
+}
+
+
+header h2 {
+    letter-spacing: .2em;
+}
+
+section a {
+    color: #77773c;
+}
+
+article span p {
+    text-align: justify;
+}
+
+section p {
+    text-transform: uppercase;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #003366;
+
+}
+
+i {
+    font-size: 2em;
+}
